@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "new-platform-new-test3-language-e",
+  "editForm": "new-platform-new-test3-language-e",
+  "external": false,
+  "caption": "Language",
+  "name": "NewPlatformNewTest3LanguageL",
+  "className": "LanguageL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-new-test3-language",
+      "modelProjection": "LanguageL"
+    }
+  ]
+}

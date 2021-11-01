@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "new-platform-new-test3-author-e",
+  "editForm": "new-platform-new-test3-author-e",
+  "external": false,
+  "caption": "Author",
+  "name": "NewPlatformNewTest3AuthorL",
+  "className": "AuthorL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-new-test3-author",
+      "modelProjection": "AuthorL"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="NewPlatform.NewTest3.Global" Language="C#" %>

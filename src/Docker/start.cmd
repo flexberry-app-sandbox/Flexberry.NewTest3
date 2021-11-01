@@ -1,0 +1,1 @@
+docker-compose -p newtest3 up -d
